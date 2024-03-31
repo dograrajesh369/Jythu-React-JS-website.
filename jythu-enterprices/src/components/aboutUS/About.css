@@ -1,0 +1,20 @@
+.aboutRight{
+    width: 40%;
+    margin-left: 100px;
+    display: flex;
+}
+.about{
+    margin: 50%;
+}
+.aboutLeft1{
+    padding-top: 150px;
+    /* color: linear-gradient(90deg,#11998E,#38EF7D); */
+    background: -webkit-linear-gradient(180deg,#38EF7D,#11998E);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 16px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 10px;
+}
